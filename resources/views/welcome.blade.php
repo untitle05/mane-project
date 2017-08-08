@@ -83,19 +83,13 @@
                 </div>
 
                 <div class="links">
-<<<<<<< HEAD
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge test hello</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
-=======
-                    <a href="https://laravel.com/docs" style="color: #ecf0f1">Documentation</a>
-                    <a href="https://laracasts.com" style="color: #ecf0f1">Laracasts</a>
-                    <a href="https://laravel-news.com" style="color: #ecf0f1">News</a>
-                    <a href="https://forge.laravel.com" style="color: #ecf0f1">Forge test</a>
-                    <a href="https://github.com/laravel/laravel" style="color: #ecf0f1">GitHub</a>
->>>>>>> green-background
+
+                    <a href="https://laravel.com/docs" style="color: #ecf0f1;">Documentation</a>
+                    <a href="https://laracasts.com" style="color: #ecf0f1;">Laracasts</a>
+                    <a href="https://laravel-news.com" style="color: #ecf0f1;">News</a>
+                    <a href="https://forge.laravel.com" style="color: #ecf0f1;">Forge test hello</a>
+                    <a href="https://github.com/laravel/laravel" style="color: #ecf0f1;">GitHub</a>
+
                 </div>
             </div>
         </div>
