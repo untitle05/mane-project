@@ -13,8 +13,8 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
-                color: #636b6f;
+                background-color: #d35400;
+                color: #ecf0f1;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
                 height: 100vh;
@@ -83,11 +83,11 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge test</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://laravel.com/docs" style="color: #ecf0f1">Documentation</a>
+                    <a href="https://laracasts.com" style="color: #ecf0f1">Laracasts</a>
+                    <a href="https://laravel-news.com" style="color: #ecf0f1">News</a>
+                    <a href="https://forge.laravel.com" style="color: #ecf0f1">Forge test</a>
+                    <a href="https://github.com/laravel/laravel" style="color: #ecf0f1">GitHub</a>
                 </div>
             </div>
         </div>
