@@ -84,7 +84,7 @@
 
                 <div class="links">
 
-                    <a href="https://laravel.com/docs" style="color: #ecf0f1;">Documentation</a>
+                    <a href="https://laravel.com/docs" style="color: #ecf0f1;">Documentation development</a>
                     <a href="https://laracasts.com" style="color: #ecf0f1;">Laracasts</a>
                     <a href="https://laravel-news.com" style="color: #ecf0f1;">News</a>
                     <a href="https://forge.laravel.com" style="color: #ecf0f1;">Forge test hello</a>
